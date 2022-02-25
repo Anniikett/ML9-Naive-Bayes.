@@ -45,6 +45,7 @@ talk_time: The longest time that a single battery charge will last when you are
 price_range: This is the target variable with the value of 0(low cost), 1(medium cost), 2(high cost) and 3(very high cost).
 
 **Scope:**
+
 ● Prepare and analyse data.
 
 ● Perform Univariate and Bivariate analysis.
