@@ -58,3 +58,5 @@ The students will get a better understanding of how the variables are linked to 
 other and how the EDA approach will help them gain more insights and knowledge
 about the data that we have and classify the data into similar groups using Naive Bayes.
 They will also learn about how to choose important features using Random Forest.
+
+
